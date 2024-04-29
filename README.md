@@ -13,16 +13,16 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | --- | --- |
 | [Awesome Community](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome communities (i.e. similar to this repository but with broader topics with a focus on programming and general ressources).
 | [Bioconductor](https://support.bioconductor.org) | Based on the biostars framework, this Question-and-answer forum is dedicated to bioconductor an open-source software project based on the R programming language.
-| [BioinformaticsGRX](https://bioinformaticsgrx.es/) | A community of bioinformaticians based in Granada, Spain
+| [BioinformaticsGRX](https://bioinformaticsgrx.es/) | A community of bioinformaticians based in Granada, Spain.
 | [Biostars](https://www.biostars.org) | Question-and-answer forum where users can ask questions related to bioinformatics, genomics, and computational biology, and receive answers from other members of the community. Biostars.org is valued for its active community of experts who contribute to discussions and provide assistance to those seeking help in their bioinformatics research. 
-| [DataTalks.Club](https://datatalks.club) | The place to talk about data. Global online community of data enthusiasts
-| [Discord Bioinfo-fr.net](https://discord.gg/rETCvGftJK) | A community of French-speaking bioinformaticians
-| [Discord Bioinformatics](https://discord.com/invite/3uxbPns) | A Discord server for general bioinformatics
-| [Discord discoRd](https://discord.com/invite/3uxbPns) | A Discord server for R 
-| [Discord Statistics](https://discord.gg/ZNsDTKk ) | A Discord server for statistics
-| [CDSB Community of Bioinformatics Software Developers](https://comunidadbioinfo.github.io/) | A community of bioinformaticians centered in Latin America
-| [COMBINE](https://combine.org.au/) | An Austrialian group for bioinformatics students
-| [r-bioinformatics](https://www.reddit.com/r/bioinformatics/comments/7ndwm1/rbioinformatics_slack_channel_and_an_open_call/) | the official Slack workspace of r/bioinformatics ([send a direct message to apfejes on reddit](https://www.reddit.com/message/compose/?to=apfejes&subject=Request%20to%20join%20the%20r/bioinformatics%20Slack%20group&message=I%20would%20like%20to%20request%20to%20join%20the%20r/bioinformatics%20Slack%20group))
-| [Slack nextflow](https://nextflow.slack.com/signup#/domain-signup) | Slack of the Nextflow community
+| [DataTalks.Club](https://datatalks.club) | The place to talk about data. Global online community of data enthusiasts.
+| [Discord Bioinfo-fr.net](https://discord.gg/rETCvGftJK) | A community of French-speaking bioinformaticians.
+| [Discord Bioinformatics](https://discord.com/invite/3uxbPns) | A Discord server for general bioinformatics.
+| [Discord discoRd](https://discord.com/invite/3uxbPns) | A Discord server for R.
+| [Discord Statistics](https://discord.gg/ZNsDTKk ) | A Discord server for statistics.
+| [CDSB Community of Bioinformatics Software Developers](https://comunidadbioinfo.github.io/) | A community of bioinformaticians centered in Latin America.
+| [COMBINE](https://combine.org.au/) | An Austrialian group for bioinformatics students.
+| [r-bioinformatics](https://www.reddit.com/r/bioinformatics/comments/7ndwm1/rbioinformatics_slack_channel_and_an_open_call/) | The official Slack workspace of r/bioinformatics ([send a direct message to apfejes on reddit](https://www.reddit.com/message/compose/?to=apfejes&subject=Request%20to%20join%20the%20r/bioinformatics%20Slack%20group&message=I%20would%20like%20to%20request%20to%20join%20the%20r/bioinformatics%20Slack%20group)).
+| [Slack nextflow](https://nextflow.slack.com/signup#/domain-signup) | Slack of the Nextflow community.
 | [Slack nf-core](https://nf-co.re/join/slack) | Used by nf-core community to provide help to people running nf-core pipelines, as well as discussing development ideas.
 | [Women Who Code - Data Science](https://womenwhocode.com/network/datascience) | Data science track for Women Who Code. Free and fully remote community to build diverse AI/DS leaders by diverse experts and leaders.
