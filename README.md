@@ -4,6 +4,8 @@ A curated list of awesome community in bioinformatics and affiliated areas.
 Communities at the service of the common good.
 
 ## Contributing
+
+Contributions are welcome!  
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 
 ## Awesome
