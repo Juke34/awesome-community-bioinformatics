@@ -11,7 +11,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 ## Awesome
 | Resource | Description |
 | --- | --- |
-| [Awesome Community](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome communities (i.e. similar to this repository but with broader topics with a focus on programming and general ressources).
+| [Awesome Community](https://github.com/phpearth/awesome-community) | A curated list of awesome communities (i.e. similar to this repository but with broader topics with a focus on programming and general ressources).
 | [Bioconductor](https://support.bioconductor.org) | Based on the biostars framework, this Question-and-answer forum is dedicated to bioconductor an open-source software project based on the R programming language.
 | [BioinformaticsGRX](https://bioinformaticsgrx.es/) | A community of bioinformaticians based in Granada, Spain.
 | [Biostars](https://www.biostars.org) | Question-and-answer forum where users can ask questions related to bioinformatics, genomics, and computational biology, and receive answers from other members of the community. Biostars.org is valued for its active community of experts who contribute to discussions and provide assistance to those seeking help in their bioinformatics research. 
