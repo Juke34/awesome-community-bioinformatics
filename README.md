@@ -11,8 +11,10 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | --- | --- |
 | [Awesome Community](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome communities (i.e. similar to this repository but with broader topics with a focus on programming and general ressources).
 | [BioinformaticsGRX](https://bioinformaticsgrx.es/) | A community of bioinformaticians based in Granada, Spain
+| [Biostars](https://www.biostars.org) | Question-and-answer forum where users can ask questions related to bioinformatics, genomics, and computational biology, and receive answers from other members of the community. Biostars.org is valued for its active community of experts who contribute to discussions and provide assistance to those seeking help in their bioinformatics research. 
 | [Discord Bioinfo-fr.net](https://discord.gg/rETCvGftJK) | A community of French-speaking bioinformaticians
 | [Discord Bioinformatics](https://discord.com/invite/3uxbPns) | A Discord server for general bioinformatics
+| [Discord discoRd](https://discord.com/invite/3uxbPns) | A Discord server for R 
 | [Discord Statistics](https://discord.gg/ZNsDTKk ) | A Discord server for statistics
 | [Comunidad de Desarolladores de Software en Bioinformática](https://comunidadbioinfo.github.io/) | A community of bioinformaticians centered in Latin America
 | [COMBINE](https://combine.org.au/) | An Austrialian group for bioinformatics students
