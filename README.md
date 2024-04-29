@@ -16,7 +16,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add a resource.
 | [Discord Bioinformatics](https://discord.com/invite/3uxbPns) | A Discord server for general bioinformatics
 | [Discord discoRd](https://discord.com/invite/3uxbPns) | A Discord server for R 
 | [Discord Statistics](https://discord.gg/ZNsDTKk ) | A Discord server for statistics
-| [Comunidad de Desarolladores de Software en Bioinformática](https://comunidadbioinfo.github.io/) | A community of bioinformaticians centered in Latin America
+| [CDSB Community of Bioinformatics Software Developers](https://comunidadbioinfo.github.io/) | A community of bioinformaticians centered in Latin America
 | [COMBINE](https://combine.org.au/) | An Austrialian group for bioinformatics students
 | [r-bioinformatics](https://www.reddit.com/r/bioinformatics/comments/7ndwm1/rbioinformatics_slack_channel_and_an_open_call/) | the official Slack workspace of r/bioinformatics ([send a direct message to apfejes on reddit](https://www.reddit.com/message/compose/?to=apfejes&subject=Request%20to%20join%20the%20r/bioinformatics%20Slack%20group&message=I%20would%20like%20to%20request%20to%20join%20the%20r/bioinformatics%20Slack%20group))
 | [Slack nextflow](https://nextflow.slack.com/signup#/domain-signup) | Slack of the Nextflow community
